@@ -1,0 +1,8 @@
+{
+	"name": "Hide Mark As Read",
+	"author": "Twitchy Ears",
+	"description": "Hides the Mark as Read menu entry except when viewing a single feed",
+	"version": 0.1,
+	"entrypoint": "HideMarkAsRead",
+	"type": "user"
+}
